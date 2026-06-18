@@ -1,0 +1,14 @@
+# --- FRONTEND IGNORES ---
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# --- BACKEND IGNORES ---
+backend/__pycache__/
+backend/*.pyc
+backend/instance/
+*.db
+
+# --- ENVIRONMENT IGNORES ---
+inventoryVENV/
+.DS_Store
