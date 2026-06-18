@@ -28,22 +28,22 @@ This system successfully delivers all the core requirements specified in the pro
 ### 1. High-Level Summary Dashboard
 The entry point of the system provides an immediate operational summary of warehouse metrics. It calculates the total inventory value and isolates critical attention items dynamically, giving warehouse managers an instant overview of system status.
 
-![System Overview](frontend/public/screenshots/Dashboard.jpg)
+![System Overview](frontend/public/screenshots/Dashboard.png)
 
 ### 2. Core Stock Management & Operational Math
 The main control room features a dynamic inventory table displaying active stock counts, structural category filtering, and rapid-response bulk stock modifiers (+/- incrementors). It directly links each asset line to vendor data and color-coded real-time batch shelf-life alerts to stop inventory stagnation.
 
-![Stock Control Room](frontend/public/screenshots/Stock_Management.jpg)
+![Stock Control Room](frontend/public/screenshots/Stock_Management.png)
 
 ### 3. Integrated Supplier Contact Registry & Asset Forms
 A structured input layout built to maintain complete data accountability. Every new inventory asset committed to the relational database enforces validation across the product name, volume, cost parameters, and matching vendor communication handles (name and phone number string).
 
-![Add Inventory Asset Form](frontend/public/screenshots/Add_Product.jpg)
+![Add Inventory Asset Form](frontend/public/screenshots/Add_Product.png)
 
 ### 4. System Activity Logs & Audit Exports
 To maintain absolute compliance, the system records sequential operations in an immutable chronological activity timeline tracker. For accounting and reporting workflows, managers can trigger the primary reporting pipeline to instantly compile active states into a downloadable financial CSV sheet.
 
-![System Activity Log](frontend/public/screenshots/Activity_Log.jpg)
+![System Activity Log](frontend/public/screenshots/Activity_Log.png)
 
 ---
 
