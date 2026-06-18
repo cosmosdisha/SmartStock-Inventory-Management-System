@@ -1,4 +1,4 @@
-# SmartStock: Inventory & Vendor Management System
+# SmartStock: Inventory Management System
 
 A full-stack web application designed to streamline warehouse inventory tracking, prevent stock stagnation, and simplify vendor coordination. This project implements a completely decoupled architecture with a React frontend and a Python Flask backend.
 
